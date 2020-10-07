@@ -1,0 +1,11 @@
+Package: Interactive Map
+Type: Package
+Title: Interactive Map
+Version: 0.1.0
+Author: Jo Ann Rañola
+Maintainer: JoAnn.Ranola@nrel.gov
+Description: This package generates an hourly animation of generation data by resource type and zone 
+and transmission data by interface. Key inputs are generation and transmission data. Generation data
+includes generation, resource type, zone, latitude, and longitude. Transmission data includes 
+energy flow, interface, latitude, and longitude.
+License: This is a free tool.
